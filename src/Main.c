@@ -160,7 +160,7 @@ void Delete(AlxWindow* w){
 }
 
 int main(){
-    if(Create("Shapes!",800,600,2,2,Setup,Update,Delete))
+    if(Create("Collision Shapes",800,600,2,2,Setup,Update,Delete))
         Start();
     return 0;
 }
