@@ -14,7 +14,6 @@ Gui_Shapes_Intersection/
 ├── build/              # .exe files produced by Main.c
 ├── src/
 │   ├── Main.c          # Entry point
-│   └── *.h             # Header-based C-files, without *.c files that implement it
 ├── Makefile.linux      # Linux Build configuration
 ├── Makefile.windows    # Windows Build configuration
 ├── Makefile.wine       # Wine Build configuration
